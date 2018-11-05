@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/VRMovementOculus/zDemos/VROculusMoveV2Demo DragMove.unity
+  isLoaded: 1
+  isActive: 1
